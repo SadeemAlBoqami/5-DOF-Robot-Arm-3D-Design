@@ -1,4 +1,4 @@
-# 5-DOF-Robot-Arm-3D-Design OF (Designed in Onshape(
+# 5-DOF-Robot-Arm-3D-Design
  A five-degree-of-freedom (5-DOF) 3D robotic arm using Onshape.
 This project contains a 3D model of a robotic arm with **5 mechanical components** representing **5 degrees of freedom**, designed using **Onshape** and exported as individual STL files for 3D printing.
 
